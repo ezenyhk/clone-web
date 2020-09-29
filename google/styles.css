@@ -1,0 +1,32 @@
+#logo {
+	display: block;
+	margin: 0px auto;
+}
+
+li {
+	list-style: none;
+	display: inline-block;
+	vertical-align: middle;
+}
+
+ol {
+	text-align: right;
+}
+
+.search-bar {
+	text-align: center;
+}
+
+input {
+	width: 50%;
+}
+
+.search-buttons {
+	text-align: center;
+}
+
+form > div > button {
+
+	display: inline-block;
+	height: 30px;
+}
